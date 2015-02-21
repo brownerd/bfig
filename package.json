@@ -1,0 +1,17 @@
+{
+  "name": "bfig",
+  "main": "./lib/bfig",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "activationCommands": {
+    "atom-workspace": "bfig:convert"
+  },
+  "repository": "https://github.com/atom/bfig",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "figlet": "1.1.0"
+  }
+}
