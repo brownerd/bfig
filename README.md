@@ -1,5 +1,10 @@
-# bfig package
+# bfig (WIP)
 
-A short description of your package.
+This is a simple package to generate the Brownerd Figlet.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Usage
+1. install this package
+2. Run `npm install` from the package
+2. Grab the [Brownerd Figlet](https://github.com/brownerd/brownerd-fig) and install it insidet he Figlet node_module in the font folder.
+
+At the moment, this is just for fun. I might make this less messy to install.
